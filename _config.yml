@@ -1,0 +1,10 @@
+title: Jarvis
+description: Приватный голосовой ассистент без Google, облаков и слежки
+url: https://jarvis-ai.github.io
+
+# Используем современную тему
+remote_theme: just-the-docs/just-the-docs
+
+# Настройки меню
+aux_links:
+  Скачать APK: https://github.com/jarvis-ai/jarvis-ai.github.io/releases
